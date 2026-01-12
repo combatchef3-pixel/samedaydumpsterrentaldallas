@@ -1,0 +1,47 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How do I choose the right dumpster size?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our experts assess your project type and waste volume to recommend the most efficient dumpster size.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What materials are allowed in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most non‑hazardous materials are fine: wood, drywall, metals, roofing, and furniture. Prohibited items typically include asbestos, liquid chemicals, paint cans with liquid, gas cylinders and medical waste.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do I need a permit for placement?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If the dumpster sits entirely on your private property (driveway or yard) typically no permit is required. If placement is on a public roadway or sidewalk, local agencies may require a street‑use permit; we can assist in the process if needed.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What happens if the dumpster goes overweight?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our pricing includes a weight allowance. If you exceed that allowance, we’ll discuss over‑weight fees in advance and offer you options to avoid surprise charges.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How far in advance do I schedule delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For residential jobs, we recommend booking at least 48 hours ahead. For commercial or construction sites, booking one week in advance is wise to secure the size and delivery slot that matches your schedule.</p>
+                <div class="callalooma mx-auto"><a href="tel:850-332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
